@@ -1,0 +1,2 @@
+# 6 clases nativas que te harán más productivo(a) en Bootstrap 4
+En la versión 4 del popular framework para Frontends existen clases CSS que te pueden facilitar la maquetación de tu proyecto, solo es cuestión que las pongas en práctica y las uses hasta que las hagas parte de tu trabajo en maquetación y veras lo rápido que avanzarás, estas clases te ahorran muchas líneas de código CSS que sueles escribir para darle cierto aspecto a un elemento del proyecto.
